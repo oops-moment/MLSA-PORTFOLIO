@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/2.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey, I'm Prisha. Second year student at International Institute of Information and Technology,Hyderabad. I am a full stack developer interseted in UI/UX design and backend development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -37,6 +37,13 @@ const skillsList = [
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
+  "Front-end development",
+  "Back-end development",
+  "API design",
+  "Cloud computing",
+  "Machine learning",
+  "Artificial intelligence",
+  "Internet of Things",
 ];
 
 /**
@@ -45,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Life is about up and down and I am the one who is always ready to face the challenges.";
 
 const About = () => {
   return (

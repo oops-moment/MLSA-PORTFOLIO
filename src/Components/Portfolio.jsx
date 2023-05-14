@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/3.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Social Media site, reddit of clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "I worked upon to build a MERN Stack application which is a clone of reddit. It has all the features of reddit like posting, commenting, upvoting, downvoting, etc. It also has a feature of creating communities and joining them.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cross PLatform Desktop App for photo compression",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "I created a cross platform desktop app using Tauri and react to compress the photos. It has a feature of compressing multiple photos at once. It also has a feature of compressing the photos in a folder.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
