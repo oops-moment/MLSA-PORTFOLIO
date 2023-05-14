@@ -17,7 +17,7 @@ import React from "react";
  * updating below imageAltText to string that represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
+ * freely use on your site ok.
  */
 import image from "../images/3.jpg";
 
